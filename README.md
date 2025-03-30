@@ -1,3 +1,8 @@
+# 🚀 Live Preview 🌐  
+
+[🔗 Click Here to View](https://vijay-ky.github.io/Production-Private-Yoga-Simple-HTML-CSS-Website/)  
+
+
 # 🧘 Responsive Yoga Website
 
 Yoga landing page provides information about the best yoga and health, social media links, business address, and subscribe to follow news from health with yoga.
@@ -14,7 +19,5 @@ And you can get information about the store address and social media.
 
 <b>DIFFICULTY</b>
 `Medium`
-
-💙 Thanks to see more my portfolio and like this.
 
 ![preview img](/preview.png)
